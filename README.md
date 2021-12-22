@@ -16,7 +16,9 @@
  Parameters:
  
  -t: -tag: The tag you want to seach. https://es.investing.com/search/?tab=news&q={*tag*}
+ 
  -n: -numOfPost: how many posts you want to scrape
+ 
  -g: -googleTranslator: If you want to translate, the type something with this parameter
  
  *Example*
